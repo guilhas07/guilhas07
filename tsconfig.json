@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "Node16",          // Ensures ESM-compatible output
+    "moduleResolution": "node16", // Resolves modules in a Node 16+ way
+    "checkJs": true,
+    "allowJs": true,
+    "strict": true,
+    "esModuleInterop": true,     // Makes it easier to import CommonJS modules
+    "resolveJsonModule": true,   // Allows importing JSON files if needed
+    "skipLibCheck": true
+  }
+}
