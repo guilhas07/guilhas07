@@ -8,6 +8,8 @@
 
 ![Open Pull Requests](https://img.shields.io/badge/Active%20PRs-4-brightgreen?style=flat-square&link=https://github.com/pulls?q=is%3Apr+author%3Aguilhas07+is%3Aopen)
 
+<br/>
+
 ### 🚀 Open Source Contributions
 
 These are some of the projects I've contributed to. See the rest of my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Aguilhas07+archived%3Afalse)
@@ -19,7 +21,10 @@ These are some of the projects I've contributed to. See the rest of my contribut
      <a href="https://github.com/gohugoio/hugo/pulls?q=is%3Apr+author%3Aguilhas07" target="_blank">
         <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=gohugoio&repo=hugo&theme=radical&show_owner=true" />            
     </a>
-     <a href="https://github.com/tree-sitter/tree-sitter/pulls?q=is%3Apr+author%3Aguilhas07" target="_blank">
+    <a href="https://github.com/twbs/bootstrap/pulls?q=is%3Apr+author%3Aguilhas07" target="_blank">
+        <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=twbs&repo=bootstrap&theme=radical&show_owner=true" />            
+    </a>
+    <a href="https://github.com/tree-sitter/tree-sitter/pulls?q=is%3Apr+author%3Aguilhas07" target="_blank">
         <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=tree-sitter&repo=tree-sitter&theme=radical&show_owner=true" />            
     </a>
     <a href="https://github.com/ngalaiko/tree-sitter-go-template/pulls?q=is%3Apr+author%3Aguilhas07" target="_blank">
